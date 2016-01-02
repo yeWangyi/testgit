@@ -6,7 +6,7 @@
 </head>
 <body>
     <canvas id="canvas" >
-        当前浏览器不支持Canvas，请更换浏览器后再试
+       快点更新浏览器
     </canvas>
     <script src="digit.js"></script>
     <script src="countdown.js"></script>
