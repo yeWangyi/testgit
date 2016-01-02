@@ -1,3 +1,5 @@
 # testgit；
 #  basical use;
-  you can ....
+###youcan
+```javascript
+var c=document.getElementById('c')```
