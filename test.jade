@@ -9,4 +9,13 @@ html
   - var arr=[1,2,3]
   - each item in arr
     p#p.arr #{arr[item]}
+  block des
+    p this is a block
+  block des
+  mixin people(name,speak)
+    p.p #{name} hello
+    ul.p
+      each item in speak
+        li= item
+  + people(wy,['ni','hao'])
      
